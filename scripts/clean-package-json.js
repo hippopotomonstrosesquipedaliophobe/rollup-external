@@ -111,15 +111,15 @@ packageJson = {
   },
 
   keywords: ['rollup-external', 'mudbean', 'vvi'],
-  homepage: 'https://npm.lmssee.com/rollup-external',
+  homepage: 'https://npms.gleanings.cn/rollup-external',
   dependencies,
   bugs: {
-    url: 'https://github.com/MrMudBean/rollup-external/issues',
+    url: 'https://github.com/gleanings/rollup-external/issues',
     email: 'Mr.MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/MrMudBean/rollup-external.git',
+    url: 'git+https://github.com/gleanings/rollup-external.git',
   },
   publishConfig: {
     access: 'public',

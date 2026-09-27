@@ -6,11 +6,10 @@
  * @copyright 2026 ©️ Mr.MudBean
  * @since 2026-06-19 18:03
  * @version 1.1.2
- * @lastModified 2026-06-28 10:21
+ * @lastModified 2026-09-27 08:01
  */
 
-import { copyTextToClipboard } from '@vvi/copy-text';
-import { isWindows } from '@vvi/node';
+import { copyTextToClipboard , isWindows } from '@vvi/node';
 import { hexPen } from '@vvi/pen';
 
 /**
