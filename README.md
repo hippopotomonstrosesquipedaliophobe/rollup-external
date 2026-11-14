@@ -1,7 +1,6 @@
 # @vvi/rollup-external
 
-[![version](<https://img.shields.io/npm/v/@vvi/rollup-external.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/rollup-external) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/gleanings/rollup-external/issues)
-
+[![version](<https://img.shields.io/npm/v/@vvi/rollup-external.svg?logo=npm&logoColor=rgb(0,0,0)&label=版本号&labelColor=rgb(73,73,228)&color=rgb(0,0,0)>)](https://www.npmjs.com/package/@vvi/rollup-external) [![issues 提交](<https://img.shields.io/badge/issues-提交-rgb(255,0,63)?logo=github>)](https://github.com/hippopotomonstrosesquipedaliophobe/rollup-external/issues)
 
 一个简单的 rollup 构建打包时的排除外部依赖的函数（多用于构建 npm 库包）。
 

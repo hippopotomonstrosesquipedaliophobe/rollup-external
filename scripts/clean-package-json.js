@@ -19,7 +19,7 @@ const dependencies = packageJson.dependencies;
   'private',
   'dependencies',
   'jja',
-  'type'
+  'type',
 ].forEach(key => delete packageJson[key]);
 const esPrefix = 'es'; // es 前缀
 const cjsPrefix = 'cjs'; // cjs 前缀
@@ -90,7 +90,7 @@ packageJson = {
   types: dtsPrefix + '/index.d.ts', // 旧版本类型入口
   author: {
     name: '泥豆君',
-    email: 'Mr.MudBean@outlook.com',
+    email: 'MudBean@outlook.com',
     url: 'https://mudbean.cn',
   },
   description: '用于 rollup 打包 📦 时排除异己的工具 🔧',
@@ -110,16 +110,16 @@ packageJson = {
     },
   },
 
-  keywords: ['rollup-external', 'mudbean', 'vvi'],
+  keywords: ['rollup-external', 'vvi'],
   homepage: 'https://npms.gleanings.cn/rollup-external',
   dependencies,
   bugs: {
-    url: 'https://github.com/gleanings/rollup-external/issues',
-    email: 'Mr.MudBean@outlook.com',
+    url: 'https://github.com/hippopotomonstrosesquipedaliophobe/rollup-external/issues',
+    email: 'MudBean@outlook.com',
   },
   repository: {
     type: 'git',
-    url: 'git+https://github.com/gleanings/rollup-external.git',
+    url: 'git+https://github.com/hippopotomonstrosesquipedaliophobe/rollup-external.git',
   },
   publishConfig: {
     access: 'public',
